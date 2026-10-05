@@ -4,7 +4,9 @@ A desk lighting prototype that detects the shadow cast by an object on the desk 
 
 Course project, Shenzhen Technology University, spring semester 2026. It is the follow-up to my first project, [stm32-smart-ambient-lighting](https://github.com/qitong-yuan/stm32-smart-ambient-lighting), and reuses its WS2812 SPI + DMA driver.
 
-<!-- DEMO VIDEO: delete this line and drag the mp4 here in the GitHub web editor -->
+
+https://github.com/user-attachments/assets/657d0d1f-4763-43b1-9b48-b070712fc74d
+
 
 ## Features
 
