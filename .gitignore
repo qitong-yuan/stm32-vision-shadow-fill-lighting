@@ -1,0 +1,31 @@
+# Keil uVision build output and user files
+firmware/Objects/
+firmware/Listings/
+firmware/DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.o
+*.d
+*.crf
+*.lst
+*.map
+*.axf
+*.hex
+*.htm
+*.dep
+*.lnp
+*.bak
+JLinkLog.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
